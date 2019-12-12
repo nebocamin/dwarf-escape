@@ -17,7 +17,7 @@ the description of pizza is "6dwarfes always eat pizza".
 
 wooden door is a door
 
-door is east of cabin
+wooden door is east of cabin
 
 
 snow white is in cave
