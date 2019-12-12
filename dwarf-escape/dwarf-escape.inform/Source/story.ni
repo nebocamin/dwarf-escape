@@ -15,6 +15,10 @@ pizza is in cabin.
 pizza is edible.
 the description of pizza is "6dwarfes always eat pizza".
 
+wooden door is a door
+
+door is in cabin
+
 
 snow white is in cave
 
