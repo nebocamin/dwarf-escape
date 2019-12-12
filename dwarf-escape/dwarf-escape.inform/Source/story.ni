@@ -10,3 +10,6 @@ cave is below cabin.
 instead of attacking 6dwarfes, say "bloss nicht."
 
 a red apple is in cabin.
+the food smells good in the cabin
+the food is pizza
+6dwarfes always eat pizza
