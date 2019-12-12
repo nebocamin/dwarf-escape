@@ -11,4 +11,6 @@ instead of attacking 6dwarfes, say "bloss nicht."
 
 a red apple is in cabin.
 
+snow white is in cave
+
 6dwarfes wears purple trousers.
