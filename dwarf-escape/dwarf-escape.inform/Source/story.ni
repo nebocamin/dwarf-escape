@@ -2,4 +2,11 @@
 
 cave is a room.
 
-instead of doing anything, end the story.
+cave is below cabin.
+
+6dwarfes are in cave.
+6dwarfes is a person.
+
+instead of attacking 6dwarfes, say "bloss nicht."
+
+a red apple is in cabin.
