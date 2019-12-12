@@ -10,3 +10,5 @@ cave is below cabin.
 instead of attacking 6dwarfes, say "bloss nicht."
 
 a red apple is in cabin.
+
+6dwarfes wears purple trousers.
